@@ -12,7 +12,7 @@ banner = '''
 def minecraft():
 	i = 112724
 	while i <= 282734:
-		print(str(i) + "   " +str(i))
+		print(str(i) + "   " +str(i) + "   " +str(i) + "   " +str(i))
 		if i == 228228:
 			print("228 228 - хах")
 			time.sleep(5)
